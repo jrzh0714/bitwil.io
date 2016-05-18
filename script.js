@@ -16,7 +16,7 @@ $.ajax({
     var bit_url=v.data.url;
     var phoneNumber = $("#phoneNumber").val();
     var imgLink = $("#imgLink").val();
-    $("#result").html('<a href="'+"http://localhost:8888/mms.php?link="+bit_url+"&phoneNumber="+phoneNumber+"&imgLink="+imgLink+'" target="_blank">'+bit_url+'</a>');
+    $("#result").html('<a href="'+"https://bitwilio-beta-peanutbutterjerry.c9users.io/mms.php?link="+bit_url+"&phoneNumber="+phoneNumber+"&imgLink="+imgLink+'" target="_blank">'+bit_url+'</a>');
     }
     });
     }
