@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "twilio/sdk",
     "type": "library",
@@ -26,3 +27,6 @@
         "files": ["Services/Twilio.php"]
     }
 }
+=======
+
+>>>>>>> 83481bc962d25063da66c6b22f296678abb9c419
